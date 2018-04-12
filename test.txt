@@ -5,4 +5,8 @@ test2
 5555
 666666
 dev branch
+<<<<<<< HEAD
 f1 master
+=======
+feature1
+>>>>>>> feature1
